@@ -1,6 +1,40 @@
 <h1 align="center">Hi there, I'm Suthahar Jegatheesan 👋</h1>
 
 
-> Suthahar Jegatheesan is Mobile and Cloud Specialist/Architect and he has 13+ years of IT experience as a Technology Consultant /Programmer/Developer in IT industry. Suthahar is an industry luminary focused on AI, Computer Vision, Bot, Machine Learning, UWP, Azure, Xamarin and Web & Emerging User Experiences as subject matter expert (SME) in implementation, architecture, development and administration. He has vast experience in E commerce, Insurance, ERP, Financial, Manufacturing, Oil & Gas and Defence domains with complete application development life-cycle including requirements gathering, analysis and design, coding, testing and deployment. He is Author of Xamarin Q &A Book and published in Amazon. He is published Xamarin Q & A Bot to the Facebook Messenger, Blog, Skype and Cortana. He also enjoys sharing his passion with other people, thus actively contributing to the community via his presentations, writing technical Article and blogs which helps him becomes a better technology leader. He takes a keen interest in sharing his knowledge and solving readers’ technology-related problems He is working with Mobile and Azure cloud technologies for past 9+ years and has worked with various mobile platform iOS, Windows, Android and Cloud migration and upgrade projects which includes Virtual Machines, SSRS & SSIS migration into SQL Cloud, Web application migration Application and cognitive service . He is Founder of popular technical blog https://www.msdevbuild.com.He was completed many Microsoft certification and received many awards.
-> 
-> I am an active blogger too, where I share whatever I've learned. My Blog contains over 200 Detailed Articles (linked to Github Repositories) around Microsoft Technologies that brings me around 80,000 Monthly readers.
+# Suthahar Jegatheesan - Mobile and Cloud Specialist/Architect
+
+Welcome to my GitHub profile! I am Suthahar Jegatheesan, a Mobile and Cloud Specialist/Architect with over 13 years of IT experience. Throughout my career, I have served as a Technology Consultant, Programmer, and Developer in various domains, including E-commerce, Insurance, ERP, Financial, Manufacturing, Oil & Gas, and Defence.
+
+## About Me
+
+- **Expertise:** AI, Computer Vision, Bot, Machine Learning, UWP, Azure, Xamarin, Web & Emerging User Experiences.
+- **Author:** Published Xamarin Q & A Book available on Amazon.
+- **Community Contributor:** Actively contribute to the community through presentations, technical articles, and blogs.
+- **Blogger:** Maintain a technical blog [msdevbuild.com](https://www.msdevbuild.com) with over 200 detailed articles around Microsoft Technologies, attracting around 80,000 monthly readers.
+
+## Professional Experience
+
+- **Mobile and Azure Cloud Technologies:** 9+ years of experience working with iOS, Windows, Android, and Cloud migration projects.
+- **Cloud Migration and Upgrade:** Worked on various cloud migration and upgrade projects, including Virtual Machines, SSRS & SSIS migration into SQL Cloud, and web application migration.
+- **Application Development Life-cycle:** Extensive experience in the complete application development life-cycle, from requirements gathering to deployment.
+
+## Achievements
+
+- **Microsoft Certifications:** Successfully completed multiple Microsoft certifications.
+- **Awards:** Received recognition and awards for contributions to the IT industry.
+
+## Projects
+
+- **Xamarin Q & A Bot:** Published Xamarin Q & A Bot to Facebook Messenger, Blog, Skype, and Cortana.
+- **Technical Blog:** Founder of the popular technical blog [msdevbuild.com](https://www.msdevbuild.com) with insightful articles linked to GitHub repositories.
+
+## Contact
+
+Feel free to connect with me:
+
+- [LinkedIn](https://www.linkedin.com/in/suthaharj/)
+- [Twitter](https://twitter.com/suthaharj)
+
+Thank you for visiting my GitHub profile! Explore the repositories, and I hope you find valuable resources.
+
+Happy Coding!
