@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I am Suthahar Jegatheesan, a Mobile and Cloud Spec
 
 ## Professional Experience
 
-- **Mobile and Azure Cloud Technologies:** 9+ years of experience working with iOS, Windows, Android, and Cloud migration projects.
+- **Mobile and Azure Cloud Technologies:** 17+ years of experience working with iOS, Windows, Android, and Cloud migration projects.
 - **Cloud Migration and Upgrade:** Worked on various cloud migration and upgrade projects, including Virtual Machines, SSRS & SSIS migration into SQL Cloud, and web application migration.
 - **Application Development Life-cycle:** Extensive experience in the complete application development life-cycle, from requirements gathering to deployment.
 
