@@ -37,6 +37,7 @@ Feel free to connect with me:
 - **YouTube Tamil**: [MSDEVBUILD TAMIL](https://www.youtube.com/@MSDEVBUILDTamil)
 - **Blog**: [Blog](https://www.msdevbuild.com/)
 - **Follow Whatsapp**: [Whatsapp](https://www.whatsapp.com/channel/0029Va5j2rHEFeXcTlUhQB0J)
+- [![Follow on GitHub](https://img.shields.io/github/followers/jssuthahar?label=Follow&style=social)](https://github.com/jssuthahar)
 
 Thank you for visiting my GitHub profile! Explore the repositories, and I hope you find valuable resources.
 
