@@ -36,9 +36,9 @@ If you enjoy:
 - 📘 Developer tutorials and guides
 - 🚀 End-to-end project templates
 
-👉 Then **[Follow me on GitHub](https://github.com/YOUR_USERNAME)** to get notified about new repos, ideas, and updates!
+👉 Then **[Follow me on GitHub](https://github.com/jssuthahar)** to get notified about new repos, ideas, and updates!
 
-[![Follow Me](https://img.shields.io/github/followers/YOUR_USERNAME?label=Follow&style=social)](https://github.com/YOUR_USERNAME)
+[![Follow Me](https://img.shields.io/github/followers/jssuthahar?label=Follow&style=social)](https://github.com/jssuthahar)
 
 
 **## Contact**
