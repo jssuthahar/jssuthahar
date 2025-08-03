@@ -28,6 +28,19 @@ Welcome to my GitHub profile! I am Suthahar Jegatheesan, a Mobile and Cloud Spec
 - **Xamarin Q & A Bot:** Published Xamarin Q & A Bot to Facebook Messenger, Blog, Skype, and Cortana.
 - **Technical Blog:** Founder of the popular technical blog [msdevbuild.com](https://www.msdevbuild.com) with insightful articles linked to GitHub repositories.
 
+### 🔔 Stay Updated with My Latest Projects
+
+If you enjoy:
+- 🧠 AI agents and automation
+- 🛠️ Practical tools and utilities
+- 📘 Developer tutorials and guides
+- 🚀 End-to-end project templates
+
+👉 Then **[Follow me on GitHub](https://github.com/YOUR_USERNAME)** to get notified about new repos, ideas, and updates!
+
+[![Follow Me](https://img.shields.io/github/followers/YOUR_USERNAME?label=Follow&style=social)](https://github.com/YOUR_USERNAME)
+
+
 **## Contact**
 
 Feel free to connect with me:
@@ -38,6 +51,10 @@ Feel free to connect with me:
 - **Blog**: [Blog](https://www.msdevbuild.com/)
 - **Follow Whatsapp**: [Whatsapp](https://www.whatsapp.com/channel/0029Va5j2rHEFeXcTlUhQB0J)
 - [![Follow on GitHub](https://img.shields.io/github/followers/jssuthahar?label=Follow&style=social)](https://github.com/jssuthahar)
+
+
+🌟 Thank you for visiting my profile – your support means a lot!
+
 
 Thank you for visiting my GitHub profile! Explore the repositories, and I hope you find valuable resources.
 
