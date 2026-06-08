@@ -176,7 +176,7 @@ Currently leading cloud and mobile architecture for a global manufacturing enter
 | [azure-openai-rag-demo](https://github.com/jssuthahar/azure-openai-rag-demo) | End-to-end RAG pipeline — Azure OpenAI + AI Search + .NET 8 |
 | [flutter-azure-enterprise](https://github.com/jssuthahar/flutter-azure-enterprise) | Offline-first Flutter app with Azure Functions + Cosmos DB backend |
 | [azure-bicep-iac-templates](https://github.com/jssuthahar/azure-bicep-iac-templates) | Reusable Bicep modules for enterprise Azure deployments |
-| [Xamarin](https://github.com/jssuthahar/Xamarin) | Mobile development guides — zero to deployment |
+| [MAUI / Flutter](https://github.com/jssuthahar/Xamarin) | Mobile development guides — zero to deployment |
 | [Bot-Framework](https://github.com/jssuthahar/Bot-Framework) | Azure Bot Framework samples and patterns |
 
 ---
